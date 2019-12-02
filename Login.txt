@@ -1,2 +1,2 @@
-Should be conflict! Should be conflict with logout!
+No conflict
 This is login functionality!
